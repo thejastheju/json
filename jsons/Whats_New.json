@@ -1,0 +1,24 @@
+{
+    "what_new_items": [
+        {
+            "message": "Your Manager Posted.",
+            "created_by": "Jonny michel",
+            "img":"<img src='./template_files/avatar-4.jpg' alt='user image' class='img-radius img-40 align-top m-r-15 update-icon' />"
+        },
+        {
+            "message": "You have 3 pending Task.",
+            "created_by": "Hemilton",
+            "img":"<i class='feather icon-briefcase bg-c-red update-icon'></i>"
+        },
+        {
+            "message": "New Order Received.",
+            "created_by": "Hemilton",
+            "img":"<i class='feather icon-check f-w-600 bg-c-green update-icon'></i>"
+        },
+        {
+            "message": "Your Manager Posted.",
+            "created_by": "Jonny michel",
+            "img":"<img src='./template_files/avatar-4.jpg' alt='user image' class='img-radius img-40 align-top m-r-15 update-icon' />"
+        }
+    ]
+}
